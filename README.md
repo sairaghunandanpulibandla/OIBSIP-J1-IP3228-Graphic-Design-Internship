@@ -12,11 +12,15 @@ The first project I worked on was posters and Fliers. This project allowed me to
 The second project I worked on was a Logo. While this project was relatively simple, it helped me develop my logic and Design skills.
 
 ## TASK-3: `Bussiness Card`
-The third Project I worked on was Bussiness Card. This project was the most challenging of the five, as it required me to develop two pages of design that emulated the functionalities of a Bussiness Card.
-I had to implement features such as displaying a menu of options, prompting the user for input, and updating account balances based on the user's actions. This project helped me develop my skills in Java programming, especially in working with classes, objects, and methods.
+The third Project I worked on was Bussiness Card. This project was the most challenging of the five, as it required me to develop two pages of design that emulated the functionalities of a Bussiness Card. It is a nice business card with animation.
 
+## TASK-4: `Infographics`
+The fourth Project I worked on was Infographics. This project was the most challenging and time taking one of the five, as it required me to develop so many elements of design that emulated the functionalities of an Infographic. It is a nice and eye-catching design.
 
+## TASK-5: `Magazines and Brochures`
+The fifth Project I worked on was Magazines and Brochures. This project was the most challenging and time taking two of the five, as it required me to develop so many elements of design that emulated the functionalities of Magazines and Brochures. It is a nice and eye-catching design.
 
+## Please refer to the below links to get live action of submitted tasks
 
 - [TASK-1 - Posters And Fliers](https://www.canva.com/design/DAFnsnk4Bys/gM-mCoSDf6nvtTgghjK72A/edit?utm_content=DAFnsnk4Bys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
